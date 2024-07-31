@@ -2,9 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=nicolasvouilloux&color=blue)
 
-Sure, here's an organized version of the information, formatted to resemble the style of the top example:
-
----
 
 ### The Coding Languages and Tools I Rely On
 
