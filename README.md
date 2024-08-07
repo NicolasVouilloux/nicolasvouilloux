@@ -1,8 +1,5 @@
 # Hello I'm Nicolas !
 
-![](https://komarev.com/ghpvc/?username=nicolasvouilloux&color=blue)
-
-
 ### The Coding Languages and Tools I Rely On !
 
 <p>
