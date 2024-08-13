@@ -20,3 +20,5 @@
 </p>
 
 ![Nicolas's Top Languages !](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasVouilloux&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+Don't forget that the stats you see above are not perfect because I did a lot of programming at school and before learning about GitHub!
