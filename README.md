@@ -18,4 +18,5 @@
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvouilloux&hide=javascript,css,scss,html&theme=tokyonight)
+
+![Nicolas's Top Languages !](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasVouilloux&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
