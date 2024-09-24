@@ -19,8 +19,6 @@
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
 </p>
 
-![Nicolas's Top Languages !](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasVouilloux&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 ![image](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NicolasVouilloux&theme=tokyonight)
 ![image](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicolasVouilloux&theme=tokyonight)
 
