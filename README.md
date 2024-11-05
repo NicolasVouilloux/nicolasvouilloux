@@ -22,5 +22,4 @@
 ![image](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NicolasVouilloux&theme=tokyonight)
 ![image](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicolasVouilloux&theme=tokyonight)
 
-
 Don't forget that the stats you see above are not perfect because I did a lot of programming at school and before learning about GitHub!
